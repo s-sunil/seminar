@@ -1,0 +1,2 @@
+# seminar
+Project for learning
